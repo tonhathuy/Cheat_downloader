@@ -1,4 +1,5 @@
 # Torrent Webseed Creator
+this repo fork from [AnimMouse](https://github.com/AnimMouse/torrent-webseed-creator-colab)
 Webseeded Torrent Creator using Google Colaboratory.
 
 Inspired by [BurnBit †](https://web.archive.org/web/20160304022643/http://burnbit.com/) and [URLHash](http://www.urlhash.com/).
